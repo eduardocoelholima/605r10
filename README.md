@@ -9,6 +9,7 @@ sessions.
 ### HW8.1: Lottery Number Distribution 
 - https://cs.rit.edu/~hpb/Lectures/2201/605/605-491.html
 - NumberCounter.java
+- ny10.csv
 - Questions?
 
 ### HW8.2: Painting numbers
