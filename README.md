@@ -1,4 +1,4 @@
-# CSCI-605 Recitation - week 9
+# CSCI-605 Recitation - week 10
 
 Here you will find a couple of code snippets as well
 as some notes used in RIT course CSCI605's recitation
@@ -6,46 +6,53 @@ sessions.
 
 ---
 
-### HW7.1: Sortable classes for LPs and Address
-
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-487.html
-- Solution files are in lecture notes
-- Questions?
-
-### HW7.2: BST using generics, interface provided
-
-https://cs.rit.edu/~hpb/Lectures/2201/605/605-488.html
-- Solution files are in lecture notes
-- How about we draw a class/interface diagram?
-- hw72.tiff
-- Questions?
-
-### HW7.3: Explaining Exceptions
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-489.html
-- F.java
-- https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/lang/IndexOutOfBoundsException.html
-- Questions?
-
 ### HW8.1: Lottery Number Distribution 
 - https://cs.rit.edu/~hpb/Lectures/2201/605/605-491.html
+- NumberCounter.java
 - Questions?
 
 ### HW8.2: Painting numbers
 - https://cs.rit.edu/~hpb/Lectures/2201/605/605-492.html
+- Visual.java
+- pi1000000.txt
 - Questions?
 
 ### HW8.3: Object Serialization
 - https://cs.rit.edu/~hpb/Lectures/2201/605/605-493.html
+- Password.java
+- PasswordRead.java
+- PasswordWrite.java
 - Questions?
 
-### Object Serialization
-- SerializableObject.java
-- This example serializes an object, writes and reads it from a file. Here is
- a couple of ideas on how to play with this code:
-     - dump the object using argument 'write'
-     - read the object from file using argument 'read'
-     - change the dump and see what happens
-     - change the String contents in the dump without changing its size
+### HW9.1: Multi-threaded Delayed Palindrome numbers 
+- https://cs.rit.edu/~hpb/Lectures/2201/605/605-495.html
+- Questions?
+
+### HW9.2: Multi-threaded Lottery Number Counter
+- https://cs.rit.edu/~hpb/Lectures/2201/605/605-496.html
+- Questions?
+
+### HW9.3: Ordering a Synchronized List
+- https://cs.rit.edu/~hpb/Lectures/2201/605/605-497.html
+- Questions?
+
+### Threads 1: Possible scheduling scenarios
+- WhichOutput.java
+- How to force specific output orders:
+  00 / 01 / 10(possible?) / 11 / 12 / 21 (possible?) / 22
+- Is 20 possible?
+- How to do the same using join()?
+
+### Threads 2: Possible scheduling scenarios
+- WhichOrder.java
+- Can we force it to be executed in the order the arguments were passed? How
+ to do it with sleep methods?
+- What if we use join methods, can we force it to be sequential?
+- How to make it in descending order with sleep?
+- What about with join?
+
+
+
 
 
 ---

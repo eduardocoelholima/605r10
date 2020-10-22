@@ -1,0 +1,5 @@
+dd if=1234.ser of=1 bs=1 count=99 	2> /dev/null
+/bin/echo -n xbcdef > 2
+dd if=1234.ser of=3 bs=1 skip=105 	2> /dev/null
+
+cat 1 2 3 > modified.ser
