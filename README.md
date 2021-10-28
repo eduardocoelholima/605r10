@@ -6,24 +6,6 @@ sessions.
 
 ---
 
-### HW9.1:  Understanding Generics Wildcards
-https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-473.html#29.1.%20Homework%209.1%20(15%20Points)
-
-### HW9.2: Generics List with Wildcards
-https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-474.html
-
-### HW9.3: Exceptions and return values
-https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-475.html
-
-### HW10.1: Lottery Number Distribution 
-https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-477.html
-
-### HW10.2: Painting numbers
-https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-478.html
-
-### HW10.3: Object Serialization
-https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-479.html
-
 ### Threads 1: Possible scheduling scenarios
 - WhichOutput.java
 - How to force specific output orders:
@@ -34,10 +16,30 @@ https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-479.html
 ### Threads 2: Possible scheduling scenarios
 - WhichOrder.java
 - Can we force it to be executed in the order the arguments were passed? How
- to do it with sleep methods?
+  to do it with sleep methods?
 - What if we use join methods, can we force it to be sequential?
 - How to make it in descending order with sleep?
 - What about with join?
+
+### HW9.1: Understanding Generics Wildcards
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-473.html#29.1.%20Homework%209.1%20(15%20Points)
+
+### HW9.2: Generics List with Wildcards
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-474.html
+
+### HW9.3: Exceptions and unreachable returns
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-475.html
+- F.java
+
+### HW10.1: Lottery Number Distribution 
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-477.html
+
+### HW10.2: Painting numbers
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-478.html
+
+### HW10.3: Object Serialization
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-479.html
+
 
 
 
