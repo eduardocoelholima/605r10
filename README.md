@@ -6,36 +6,23 @@ sessions.
 
 ---
 
-### HW8.1: Lottery Number Distribution 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-491.html
-- NumberCounter.java
-- ny10.csv
-- Questions?
+### HW9.1:  Understanding Generics Wildcards
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-473.html#29.1.%20Homework%209.1%20(15%20Points)
 
-### HW8.2: Painting numbers
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-492.html
-- Visual.java
-- pi1000000.txt
-- Questions?
+### HW9.2: Generics List with Wildcards
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-474.html
 
-### HW8.3: Object Serialization
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-493.html
-- Password.java
-- PasswordRead.java
-- PasswordWrite.java
-- Questions?
+### HW9.3: Exceptions and return values
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-475.html
 
-### HW9.1: Multi-threaded Delayed Palindrome numbers 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-495.html
-- Questions?
+### HW10.1: Lottery Number Distribution 
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-477.html
 
-### HW9.2: Multi-threaded Lottery Number Counter
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-496.html
-- Questions?
+### HW10.2: Painting numbers
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-478.html
 
-### HW9.3: Ordering a Synchronized List
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-497.html
-- Questions?
+### HW10.3: Object Serialization
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-479.html
 
 ### Threads 1: Possible scheduling scenarios
 - WhichOutput.java
